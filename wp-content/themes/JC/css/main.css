@@ -1434,7 +1434,7 @@ input:focus::-moz-placeholder {color:#fff;}
 	margin-top: 30px;
 	position: relative;
 	display: inline-block;
-	height: fit-content;
+	max-height: 230px;
 }
 .rev-cards__img {
 	display: block;
@@ -1670,6 +1670,9 @@ input:focus::-moz-placeholder {color:#fff;}
 	}
 	.article {
 		min-height: 441px;
+	}
+	.rev-cards__photo {
+		max-height: 170px;
 	}
 	.network {
 		display: flex;
