@@ -485,7 +485,7 @@ Template Post Type: post, page, product
 				</div>
 			</div>
 			<div id="slide-article" class="swiper-container">
-				<div class="swiper-wrapper ">
+				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="article">
 							<div class="article__position">
